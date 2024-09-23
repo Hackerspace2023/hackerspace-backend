@@ -1,0 +1,112 @@
+[
+    {
+        "eventName": "Power BI Workshop",
+        "eventDate": "2024-09-20",
+        "eventTime": "07:00 PM",
+        "location": "Online",
+        "description": "3-day online workshop and discover the exciting world of software development with Power BI.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/Workshop-PowerBI(2024).jpeg?raw=true",
+        "registrationLink": "https://forms.gle/Aj9i5TKrD5nLhTzu7",
+        "category": "past"
+    },
+    {
+        "eventName": "Programming Classes",
+        "eventDate": "2024-08-31",
+        "eventTime": "07:00 PM",
+        "location": "Online",
+        "description": "Unlock your coding potential with our weekly classes, featuring challenges that sharpen your skills and broaden your horizons.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/CP_Classes(2024).png?raw=true",
+        "registrationLink": "https://forms.gle/Aj9i5TKrD5nLhTzu7",
+        "category": "past"
+    },
+    {
+        "eventName": "CodeCraft 3.0",
+        "eventDate": "2024-08-02",
+        "eventTime": "07:00 PM",
+        "location": "Online",
+        "description": "This was the 3rd Web Development Contest conducted for 24 hours where each individual embarked on a Digital Odyssey to solve the given problem statement.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/CodeCraft-3(2024).jpeg?raw=true",
+        "registrationLink": "https://forms.gle/4Z9D3LmfGfREAQbJ8",
+        "category": "past"
+    },
+    {
+        "eventName": "Java WorkShop",
+        "eventDate": "2024-05-08",
+        "eventTime": "08:00 PM",
+        "location": "Online",
+        "description": "3-day online workshop and discover the exciting world of software development and Java programming",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/WorkShop-Java(2024).jpeg?raw=true",
+        "registrationLink": "https://forms.gle/suVq2HSLFXUJw4KP8",
+        "category": "past"
+    },
+    {
+        "eventName": "DataScience WorkShop",
+        "eventDate": "2024-04-21",
+        "eventTime": "08:00 PM",
+        "location": "Online",
+        "description": "In this intensive workshop, participants delved into Python's application in data science, mastering key concepts and techniques over three immersive days.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/WorkShop-DataScience(2024).jpeg?raw=true",
+        "registrationLink": "NULL",
+        "category": "past"
+    },
+    {
+        "eventName": "Orientation 2024",
+        "eventDate": "2024-04-08",
+        "eventTime": "03:45 PM",
+        "location": "MSIT, Kolkata",
+        "description": "This was an Orientation event for the 1st years telling them what Hackerspace is and it's motive to Hack the Future.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/Orientation-2(2024)-1.jpeg?raw=true",
+        "registrationLink": "NULL",
+        "category": "past"
+    },
+    {
+        "eventName": "Node, SQL Session",
+        "eventDate": "2024-03-04",
+        "eventTime": "04:15 PM",
+        "location": "MSIT, Kolkata",
+        "description": "Hackerspace Backend Bonanza is a comprehensive coding workshop series, offering hands-on learning and mentorship to elevate participants' backend development skills.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/Node_Sql(2024).jpeg?raw=true",
+        "registrationLink": "https://forms.gle/gtkRC2YQvJexegbJ9",
+        "category": "past"
+    },
+    {
+        "eventName": "CodeCraft 2.0",
+        "eventDate": "2024-01-14",
+        "eventTime": "03:00 PM",
+        "location": "Online",
+        "description": "This was the 2nd Web Development Contest conducted for 24 hours where each individual embarked on a Digital Odyssey to solve the given problem statement.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/CodeCraft-2(2024).jpeg?raw=true",
+        "registrationLink": "",
+        "category": "past"
+    },
+    {
+        "eventName": "Git GitHub Session",
+        "eventDate": "2023-10-07",
+        "eventTime": "06:30 PM",
+        "location": "Online",
+        "description": "This was a session on mastering Version Control System and Collaboration using Git and Github for Hacktoberfest 2023.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/Git_GitHub(2023).jpeg?raw=true",
+        "registrationLink": "",
+        "category": "past"
+    },
+    {
+        "eventName": "CodeCraft 1.0",
+        "eventDate": "2023-09-02",
+        "eventTime": "12:00 AM",
+        "location": "Online",
+        "description": "This was a Web Development Contest conducted for 24 hours where each individual embarked on a Digital Odyssey to solve the given problem statement.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/CodeCraft-1(2023).jpeg?raw=true",
+        "registrationLink": "",
+        "category": "past"
+    },
+    {
+        "eventName": "Orientation 2023",
+        "eventDate": "2023-08-28",
+        "eventTime": "10:00 AM",
+        "location": "MSIT, Kolkata",
+        "description": "This was an Orientation event for the 1st and 2nd years telling them what Hackerspace is and it's motive to Hack the Future.",
+        "eventImage": "https://github.com/Hackerspace2023/hackspace-portfolio-images/blob/main/Events/Orientation-1(2023).jpeg?raw=true",
+        "registrationLink": "",
+        "category": "past"
+    }
+]
