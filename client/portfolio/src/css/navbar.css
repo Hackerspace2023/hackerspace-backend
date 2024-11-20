@@ -1,0 +1,150 @@
+.navbar {
+  width: 100%;
+  background-color: #00000054;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  /* position: sticky; */
+  position: fixed;
+  top: 0;
+  left: 0;
+  color: var(--text-color);
+  font-size: 25px;
+  font-weight: 400;
+  z-index: 999;
+}
+
+/* ========= Glassmorphism ========= */
+.navbar {
+  background: #00000038;
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+}
+
+.navHeader {
+  display: flex;
+}
+
+/* navbar section indicator css */
+.sectionNumber {
+  color: var(--sub-text-color);
+  margin-right: 10px;
+}
+
+.sectionTitle {
+  color: var(--text-color);
+}
+
+/* navbar logo */
+.navLogo {
+  @apply font-audiowide;
+  font-size: 50px;
+  margin-right: 80px;
+  letter-spacing: 5px;
+}
+
+/* ========= navItems ========= */
+.navItems {
+  /* background-color: red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  font-size: 22px;
+}
+
+.navLinks {
+  padding: 10px;
+  padding-bottom: 5px;
+  color: var(--sub-text-color);
+  /* background-color: red; */
+  cursor: pointer;
+  position: relative;
+  transition: var(--transition);
+}
+
+.navLinks::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0%;
+  height: 3px;
+  background-color: var(--text-color);
+  transition: var(--transition);
+}
+
+.navLinks:hover {
+  color: var(--text-color);
+}
+
+.navLinks:hover::after {
+  left: 0;
+  width: 100%;
+}
+
+.navBtn {
+  position: relative;
+  /* background-color: red; */
+  width: 150px;
+  height: 70%;
+}
+
+.btnContact {
+  scale: 0.8;
+  position: absolute;
+  top: 0px;
+  right: -30px;
+}
+
+/* ========= navbar ( RESPONSIVE ) ========= */
+@media only screen and (max-width: 1200px) {
+  .btnContact {
+    top: 0px;
+    right: -55px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .navbar {
+    font-size: 20px;
+  }
+
+  .navItems {
+    gap: 10px;
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 870px) {
+  .navItems {
+    gap: 8px;
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  .navItems {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .btnContact {
+    top: 0px;
+    right: -75px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .navbar {
+    font-size: 18px;
+  }
+
+  .navItems {
+    font-size: 18px;
+  }
+}
