@@ -8,8 +8,6 @@ import Projects from "./Projects/Projects";
 import Error from "./Error/Error";
 import Members from "./Members/Members";
 import Loading from "./Loading/Loading";
-import Country from "./Country/Country";
-import Dashboard from "./Admin/Dashboard/Dashboard";
 
 export {
   Home,
@@ -22,6 +20,4 @@ export {
   Error,
   Members,
   Loading,
-  Country,
-  Dashboard
 };

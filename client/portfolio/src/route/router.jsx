@@ -7,8 +7,6 @@ import {
   About,
   Blog,
   Contact,
-  Country,
-  Dashboard,
   Error,
   Events,
   Gallery,
@@ -31,8 +29,6 @@ const router = createBrowserRouter(
       <Route path="/contact" element={<Contact />} />
       <Route path="*" element={<Error />} />
       <Route path="/members" element={<Members />} />
-      <Route path="/country" element={<Country />} />
-      <Route path="/admin/dashboard" element={<Dashboard />} />
     </Route>
   )
 );
